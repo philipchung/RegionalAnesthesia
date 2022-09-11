@@ -3,8 +3,7 @@
 
 title: UW Anesthesia Peer Talk - Regional Anesthesia
 author: Philip Chung
-# logo: logo.png
-logo: numb_neuron_logo.jpg
+logo: intro/numb_neuron_logo.jpg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

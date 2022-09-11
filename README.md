@@ -17,6 +17,8 @@ To build JupyterBook from source:
 ```sh
 # Build jupyter book from source files.  Output is in /presentation/_build
 jupyter-book build presentation
+
 # Publish to Github Pages (copies _build/html to gh-pages branch)
+git commit
 ghp-import -n -p -f presentation/_build/html
 ```

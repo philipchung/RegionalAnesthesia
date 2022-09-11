@@ -2,16 +2,16 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: intro/intro
 chapters:
-- file: regional-types
-- file: regional-indications
-- file: regional-equipment
-- file: case1
-- file: case2
-- file: case3
-- file: upper-extremity-blocks
-- file: upper-extremity-blocks2
-- file: lower-extremity-blocks
-- file: truncal-blocks
-- file: regional-app
+- file: overview/regional-types
+- file: overview/regional-indications
+- file: equipment/equipment
+- file: overview/nerve-vs-plane-block
+- file: cases/case1
+- file: cases/case2
+- file: cases/case3
+- file: upper-extremity/upper-extremity-blocks
+- file: lower-extremity/lower-extremity-blocks
+- file: truncal/truncal-blocks
+- file: resources/regional-app

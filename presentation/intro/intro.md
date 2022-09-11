@@ -1,6 +1,6 @@
-# Practical Intro to Regional Anesthesia
+# Practical Overview of Nerve Blocks
 
-Philip Chung (CA-3) | 9/19/2022
+__Philip Chung (CA-3) | 9/19/2022__
 
 ![Numb Neuron](numb_neuron_logo.jpg)
 
