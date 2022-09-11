@@ -15,7 +15,7 @@ Brachial Plexus & Nerve Block Locations
 * 100% chance of Phrenic Nerve (C3,4,5).  Transient Hemidiaphragmatic Paralysis.
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
 
-![interscalene injection](interscalene-injection.jpg)
+![interscalene-injection](interscalene-injection.jpg)
 
 <!-- Interscalene Block Video -->
 <div>
@@ -25,7 +25,7 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![interscalene dermatome](interscalene-dermatome.jpg)
+![interscalene-dermatome](interscalene-dermatome.jpg)
 
 ## Supraclavicular
 
@@ -34,7 +34,7 @@ Brachial Plexus & Nerve Block Locations
 * ~67% chance of Phrenic Nerve involvement
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
 
-![supraclav injection](supraclav-injection.jpg)
+![supraclav-injection](supraclav-injection.jpg)
 
 <!-- Supraclavicular Block Video -->
 <div>
@@ -44,7 +44,7 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![supraclavicular dermatome](supraclav-dermatome.jpg)
+![supraclavicular-dermatome](supraclav-dermatome.jpg)
 
 ## Infraclavicular
 
@@ -53,7 +53,7 @@ Brachial Plexus & Nerve Block Locations
 * Deep structure, steep needle angulation, difficult needle visualization
 * Higher pneumothorax risk.  No bony protection against needle.
 
-![infraclav injection](infraclav-injection.jpg)
+![infraclav-injection](infraclav-injection.jpg)
 
 <!-- Infraclavicular Block Video -->
 <div>
@@ -63,7 +63,7 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![infraclav dermatome](infraclav-dermatome.jpg)
+![infraclav-dermatome](infraclav-dermatome.jpg)
 
 ## Axillary
 
@@ -72,7 +72,7 @@ Brachial Plexus & Nerve Block Locations
 * More targets.  Nerves have branched out.  Need to get around axillary artery for Radial/Ulnar/Median & separately get musculocutaneous.
 * Alternative to other brachial plexus blocks for anticoagulated patients as axillary region is compressible
 
-![axillary injection](axillary-injection.jpg)
+![axillary-injection](axillary-injection.jpg)
 
 <!-- Axillary Block Video -->
 <div>
@@ -82,7 +82,7 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![axillary dermatome](axillary-dermatome.jpg)
+![axillary-dermatome](axillary-dermatome.jpg)
 
 # Getting the T2 Dermatomal Distribution
 
@@ -92,9 +92,9 @@ Brachial Plexus & Nerve Block Locations
 * Often needed for tourniquet or AV fistula.
 * Anesthetize small subcutaneous nerves
 
-![ICB distribution](ICB-distribution.jpg)
+![ICB-distribution](ICB-distribution.jpg)
 
-![ICB location](ICB-location.jpg)
+![ICB-location](ICB-location.jpg)
 
 ## Pectoralis (Pecs I/II)
 
@@ -105,13 +105,13 @@ Brachial Plexus & Nerve Block Locations
   * Posterior Shoulder
 * Note: similar location to Serratus Anterior blocks, which is more lateral and in the axillary line
 
-![pecs probe position](pecs-probe-position.jpg)
+![pecs-probe-position](pecs-probe-position.jpg)
 
-![pecs nerves](pecs-nerves.jpg)
+![pecs-nerves](pecs-nerves.jpg)
 
-pecs 1 & pecs 2 block injection sites.
+Pecs 1 & pecs 2 block injection sites.
 
-![pecs 1 & 2 injection](pecs-1-2-injection.jpg)
+![pecs-1-2-injection](pecs-1-2-injection.jpg)
 
 ### Sources
 

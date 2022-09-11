@@ -7,11 +7,12 @@ chapters:
 - file: overview/regional-types
 - file: overview/regional-indications
 - file: equipment/equipment
-- file: overview/nerve-vs-plane-block
 - file: cases/case1
-- file: cases/case2
-- file: cases/case3
 - file: upper-extremity/upper-extremity-blocks
+- file: cases/case2a
+- file: cases/case2b
 - file: lower-extremity/lower-extremity-blocks
+- file: cases/case3
+- file: overview/nerve-vs-plane-block
 - file: truncal/truncal-blocks
 - file: resources/regional-app
