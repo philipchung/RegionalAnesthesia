@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Practical Intro to Regional Anesthesia
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Philip Chung (CA-3) | 9/19/2022
 
-Check out the content pages bundled with this sample book to see more.
+![Numb Neuron](numb_neuron_logo.jpg)
+
+Useful for:
+
+* APS Rotation: when you get a page overnight about a peripheral nerve catheter (PNC)
+* CA-2/3 Regional Rotations
+* General OR Cases: when to reach out to regional anesthesia team @ UWMC, HMC, VA to coordinate if your patient is getting blocked
+* Anesthesia Exams
 
 ```{tableofcontents}
 ```

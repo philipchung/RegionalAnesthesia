@@ -4,7 +4,14 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: mymarkdownfile
+- file: regional-types
+- file: regional-indications
+- file: regional-equipment
+- file: case1
+- file: case2
+- file: case3
+- file: upper-extremity-blocks
+- file: upper-extremity-blocks2
+- file: lower-extremity-blocks
+- file: truncal-blocks
+- file: regional-app

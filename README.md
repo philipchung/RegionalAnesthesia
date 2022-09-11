@@ -15,8 +15,8 @@ pip install -U jupyter-book ghp-import
 To build JupyterBook from source:
 
 ```sh
-# Build jupyter book from source files.  Output is in /apt-regional/_build
-jupyter-book build apt-regional
+# Build jupyter book from source files.  Output is in /presentation/_build
+jupyter-book build presentation
 # Publish to Github Pages (copies _build/html to gh-pages branch)
-ghp-import -n -p -f _build/html
+ghp-import -n -p -f presentation/_build/html
 ```
