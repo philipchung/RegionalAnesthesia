@@ -23,7 +23,9 @@
 
 <http://www.usra.ca/regional-anesthesia/ultrasound-guided-techniques/needlingtechs.php>
 
-## Pajunk Sonoplex Nerve Block Needles
+## Single-Shot Block Needles
+
+### Pajunk Sonoplex
 
 * thin 21G needles
 * short 50mm vs Long 100mm

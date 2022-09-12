@@ -15,6 +15,19 @@
 | What | OR: Sole anesthetic & analgesic for surgery, confined to nerve distribution | OR: Regional for analgesia & blunt surgical stimulus, but patient still needs intubation | Pain control for post-op/floor/ICU patients.
 | Example | Hand/Wrist Surgery, Cesarean Section | Thoracotomy, Nephrectomy, Burns Skin Grafting | Rib fractures in frail patient, Rescue Blocks in PACU
 
+## Nerve vs. Plane Block
+
+__Nerve Block:__ injection or catheter right next to nerve.
+
+* Often needed for primary regional blocks
+* Low-volume blocks
+
+__Plane Block:__ injection or catheter at fascial plane.
+
+* Spread of local anesthetic eventually reaches target nerves which pass through fascial plane
+* Often analgesic blocks
+* High volume, low concentration blocks
+
 ## When/Where We Do It
 
 | Location/Timing | Description |

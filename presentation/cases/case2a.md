@@ -1,4 +1,4 @@
-# Case 2 - Part A
+# Case 2a
 
 35 year old man had a fell while climbing a tree and suffered left trimalleolar ankle fracture.
 

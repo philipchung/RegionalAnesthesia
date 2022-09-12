@@ -10,10 +10,12 @@ Brachial Plexus & Nerve Block Locations
 
 ## Interscalene (ISB)
 
-* Better shoulder coverage than Supraclavicular
+* Better shoulder coverage than Supraclavicular because reliably blocks above suprascapular nerve take-off.
 * Often misses ulnar distribution
 * 100% chance of Phrenic Nerve (C3,4,5).  Transient Hemidiaphragmatic Paralysis.
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
+
+![interscalene-position](interscalene-position.jpg)
 
 ![interscalene-injection](interscalene-injection.jpg)
 
@@ -34,6 +36,8 @@ Brachial Plexus & Nerve Block Locations
 * ~67% chance of Phrenic Nerve involvement
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
 
+![supraclav-position](supraclav-position.jpg)
+
 ![supraclav-injection](supraclav-injection.jpg)
 
 <!-- Supraclavicular Block Video -->
@@ -53,6 +57,8 @@ Brachial Plexus & Nerve Block Locations
 * Deep structure, steep needle angulation, difficult needle visualization
 * Higher pneumothorax risk.  No bony protection against needle.
 
+![infraclav-position](infraclav-position.jpg)
+
 ![infraclav-injection](infraclav-injection.jpg)
 
 <!-- Infraclavicular Block Video -->
@@ -71,6 +77,8 @@ Brachial Plexus & Nerve Block Locations
 * No shoulder coverage
 * More targets.  Nerves have branched out.  Need to get around axillary artery for Radial/Ulnar/Median & separately get musculocutaneous.
 * Alternative to other brachial plexus blocks for anticoagulated patients as axillary region is compressible
+
+![axillary-position](axillary-position.jpg)
 
 ![axillary-injection](axillary-injection.jpg)
 

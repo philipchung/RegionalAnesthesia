@@ -1,4 +1,4 @@
-# Case 2 - Part B
+# Case 2b
 
 What kind of orders do we need to place for the peripheral nerve catheter we placed?  Choose the best answer.
 
