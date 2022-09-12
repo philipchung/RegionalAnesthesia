@@ -8,14 +8,16 @@ Brachial Plexus & Nerve Block Locations
 
 <https://www.researchgate.net/figure/Idealized-brachial-plexus-Various-approaches-define-individual-brachial-plexus-blocks_fig4_24197528>
 
-## Interscalene (ISB)
+### Interscalene (ISB)
 
-* Better shoulder coverage than Supraclavicular
+* Better shoulder coverage than Supraclavicular because reliably blocks above suprascapular nerve take-off.
 * Often misses ulnar distribution
 * 100% chance of Phrenic Nerve (C3,4,5).  Transient Hemidiaphragmatic Paralysis.
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
 
-![interscalene injection](interscalene-injection.jpg)
+![interscalene-position](interscalene-position.jpg)
+
+![interscalene-injection](interscalene-injection.jpg)
 
 <!-- Interscalene Block Video -->
 <div>
@@ -25,16 +27,18 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![interscalene dermatome](interscalene-dermatome.jpg)
+![interscalene-dermatome](interscalene-dermatome.jpg)
 
-## Supraclavicular
+### Supraclavicular
 
 * "Spinal of the Arm".  Commonly used for primary regional anesthetic in hand room cases.
 * Low pneumothorax risk.  Needle protected by 1st rib.
 * ~67% chance of Phrenic Nerve involvement
 * Difficult to place catheter.  Shallow, no muscle/ligament to anchor catheter.
 
-![supraclav injection](supraclav-injection.jpg)
+![supraclav-position](supraclav-position.jpg)
+
+![supraclav-injection](supraclav-injection.jpg)
 
 <!-- Supraclavicular Block Video -->
 <div>
@@ -44,16 +48,18 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![supraclavicular dermatome](supraclav-dermatome.jpg)
+![supraclavicular-dermatome](supraclav-dermatome.jpg)
 
-## Infraclavicular
+### Infraclavicular
 
 * Similar coverage to Supraclavicular, little less reliable to get shoulder
 * Better for catheters.  Pectoral muscle anchors catheter
 * Deep structure, steep needle angulation, difficult needle visualization
 * Higher pneumothorax risk.  No bony protection against needle.
 
-![infraclav injection](infraclav-injection.jpg)
+![infraclav-position](infraclav-position.jpg)
+
+![infraclav-injection](infraclav-injection.jpg)
 
 <!-- Infraclavicular Block Video -->
 <div>
@@ -63,16 +69,18 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![infraclav dermatome](infraclav-dermatome.jpg)
+![infraclav-dermatome](infraclav-dermatome.jpg)
 
-## Axillary
+### Axillary
 
 * Requires arm up positioning
 * No shoulder coverage
 * More targets.  Nerves have branched out.  Need to get around axillary artery for Radial/Ulnar/Median & separately get musculocutaneous.
 * Alternative to other brachial plexus blocks for anticoagulated patients as axillary region is compressible
 
-![axillary injection](axillary-injection.jpg)
+![axillary-position](axillary-position.png)
+
+![axillary-injection](axillary-injection.jpg)
 
 <!-- Axillary Block Video -->
 <div>
@@ -82,21 +90,21 @@ Brachial Plexus & Nerve Block Locations
   </div>
 </div>
 
-![axillary dermatome](axillary-dermatome.jpg)
+![axillary-dermatome](axillary-dermatome.jpg)
 
-# Getting the T2 Dermatomal Distribution
+## Getting the T2 Dermatomal Distribution
 
-## Intercostobrachial (ICB)
+### Intercostobrachial (ICB)
 
 * Branch of T2.  Not part of brachial plexus.
 * Often needed for tourniquet or AV fistula.
 * Anesthetize small subcutaneous nerves
 
-![ICB distribution](ICB-distribution.jpg)
+![ICB-distribution](ICB-distribution.jpg)
 
-![ICB location](ICB-location.jpg)
+![ICB-location](ICB-location.jpg)
 
-## Pectoralis (Pecs I/II)
+### Pectoralis (Pecs I/II)
 
 * Fascial plane block
 * Covers axillary/shoulder nerves not innervated by brachial plexus
@@ -105,15 +113,15 @@ Brachial Plexus & Nerve Block Locations
   * Posterior Shoulder
 * Note: similar location to Serratus Anterior blocks, which is more lateral and in the axillary line
 
-![pecs probe position](pecs-probe-position.jpg)
+![pecs-probe-position](pecs-probe-position.jpg)
 
-![pecs nerves](pecs-nerves.jpg)
+![pecs-nerves](pecs-nerves.jpg)
 
-pecs 1 & pecs 2 block injection sites.
+Pecs 1 & pecs 2 block injection sites.
 
-![pecs 1 & 2 injection](pecs-1-2-injection.jpg)
+![pecs-1-2-injection](pecs-1-2-injection.jpg)
 
-### Sources
+## Sources
 
 Most of resources/images taken from NYSORA which is a good site for learning/review.
 <https://www.nysora.com/techniques/upper-extremity/>
