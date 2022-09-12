@@ -8,7 +8,7 @@ Brachial Plexus & Nerve Block Locations
 
 <https://www.researchgate.net/figure/Idealized-brachial-plexus-Various-approaches-define-individual-brachial-plexus-blocks_fig4_24197528>
 
-## Interscalene (ISB)
+### Interscalene (ISB)
 
 * Better shoulder coverage than Supraclavicular because reliably blocks above suprascapular nerve take-off.
 * Often misses ulnar distribution
@@ -29,7 +29,7 @@ Brachial Plexus & Nerve Block Locations
 
 ![interscalene-dermatome](interscalene-dermatome.jpg)
 
-## Supraclavicular
+### Supraclavicular
 
 * "Spinal of the Arm".  Commonly used for primary regional anesthetic in hand room cases.
 * Low pneumothorax risk.  Needle protected by 1st rib.
@@ -50,7 +50,7 @@ Brachial Plexus & Nerve Block Locations
 
 ![supraclavicular-dermatome](supraclav-dermatome.jpg)
 
-## Infraclavicular
+### Infraclavicular
 
 * Similar coverage to Supraclavicular, little less reliable to get shoulder
 * Better for catheters.  Pectoral muscle anchors catheter
@@ -71,14 +71,14 @@ Brachial Plexus & Nerve Block Locations
 
 ![infraclav-dermatome](infraclav-dermatome.jpg)
 
-## Axillary
+### Axillary
 
 * Requires arm up positioning
 * No shoulder coverage
 * More targets.  Nerves have branched out.  Need to get around axillary artery for Radial/Ulnar/Median & separately get musculocutaneous.
 * Alternative to other brachial plexus blocks for anticoagulated patients as axillary region is compressible
 
-![axillary-position](axillary-position.jpg)
+![axillary-position](axillary-position.png)
 
 ![axillary-injection](axillary-injection.jpg)
 
@@ -92,9 +92,9 @@ Brachial Plexus & Nerve Block Locations
 
 ![axillary-dermatome](axillary-dermatome.jpg)
 
-# Getting the T2 Dermatomal Distribution
+## Getting the T2 Dermatomal Distribution
 
-## Intercostobrachial (ICB)
+### Intercostobrachial (ICB)
 
 * Branch of T2.  Not part of brachial plexus.
 * Often needed for tourniquet or AV fistula.
@@ -104,7 +104,7 @@ Brachial Plexus & Nerve Block Locations
 
 ![ICB-location](ICB-location.jpg)
 
-## Pectoralis (Pecs I/II)
+### Pectoralis (Pecs I/II)
 
 * Fascial plane block
 * Covers axillary/shoulder nerves not innervated by brachial plexus
@@ -121,7 +121,7 @@ Pecs 1 & pecs 2 block injection sites.
 
 ![pecs-1-2-injection](pecs-1-2-injection.jpg)
 
-### Sources
+## Sources
 
 Most of resources/images taken from NYSORA which is a good site for learning/review.
 <https://www.nysora.com/techniques/upper-extremity/>

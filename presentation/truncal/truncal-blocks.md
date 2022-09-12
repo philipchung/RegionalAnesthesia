@@ -1,12 +1,12 @@
 # Truncal Blocks
 
-## Erector Spinae Plane (ESP)
+### Erector Spinae Plane (ESP)
 
 * Fascial plane block, often @ T5-T7 (near level of angle of scapula)
-* Theory: local anesthetic travels along plane & eventually gets into paravertebral psace
-* Can cover 3-4 levels above & below block
-* Easy to get view, but narrow ultrasound window/needle alignment makes for technically challenging block
-* Can be done sitting or lateral.  Much harder if lateral.
+  * Can cover 3-4 levels above & below block
+  * Easy to get view, but narrow ultrasound window/needle alignment makes for technically challenging block
+* Theory: local anesthetic travels along plane & eventually gets into paravertebral space
+* Can be done sitting or lateral.  Lateral is more difficult.
 * Commonly used for rib fractures
 * Alternative to thoracic epidural/paravertebral if patient is anticoagulated
 
@@ -18,7 +18,7 @@
   </div>
 </div>
 
-## Serratus Anterior Plane
+### Serratus Anterior Plane
 
 * Fascial plane block
 * Similar to PECs 1 & 2 Block, but more lateral into axillary line.
@@ -36,7 +36,7 @@
 
 <https://www.nysora.com/topics/regional-anesthesia-for-specific-surgical-procedures/thorax/pectoralis-serratus-plane-blocks/>
 
-## Transverse Abdominus Plane (TAP)
+### Transverse Abdominus Plane (TAP)
 
 * Fascial plane block, inject between internal oblique & transversus abdominus muscles.
 * Somatic abdominal wall coverage only, no visceral coverage
@@ -59,7 +59,7 @@
 
 <https://www.nysora.com/topics/regional-anesthesia-for-specific-surgical-procedures/abdomen/ultrasound-guided-transversus-abdominis-plane-quadratus-lumborum-blocks/>
 
-## Rectus Sheath Block
+### Rectus Sheath Block
 
 * Fascial plane block
 * Somatic abdominal wall coverage only, no visceral coverage
