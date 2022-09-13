@@ -11,6 +11,6 @@
     * Scalp Blocks
 3. IV Regional Anesthesia (e.g. Bier block)
 
-We'll focus on common upper & lower extremity blocks.
+We'll focus on common peripheral nerve blocks: mainly upper & lower extremity blocks + truncal blocks.
 
 ![dermatomes-full-body](dermatomes-full-body.jpg)

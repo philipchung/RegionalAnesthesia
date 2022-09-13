@@ -15,8 +15,8 @@ What kind of anesthetic would you offer?  Choose the best answer(s).
 __C. Supraclavicular block__
 
 Single-shot supraclavicular block + intercostobrachial block as primary regional anesthetic.
-* Primary anesthetic blocks require a higher concentration of local anesthetic.  We will use 0.25% Ropivicaine or 0.25% Bupivicaine.
-* In contrast, analgesic blocks typically use 0.2% ropivicaine or 0.25% bupivicaine.
+* Primary anesthetic blocks require a higher concentration of local anesthetic.  We will use 0.25% ropivacaine or 0.25% bupivacaine.
+* In contrast, analgesic blocks typically use 0.2% ropivacaine or 0.25% bupivacaine.
 * In the OR, sedation provided over regional block for patient's comfort.
 
 __Explanation:__
